@@ -36,8 +36,8 @@ const reset = function () {
   playersCurrents[1] = 0;
 
   //Remove Messages
-  message[0] = 'COUCOU!';
-  message[1] = 'HELLO !!!';
+  message[0] = '';
+  message[1] = '';
 
   // Make player 1 active
   playersEl[player].classList.remove('player--winner');

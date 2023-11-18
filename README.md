@@ -13,7 +13,7 @@ switch players based on game logic
 ### Key Features
 
 - On user action (e.g., by clicking on a button), Keeps scoring between players
-- Game Logic Declares winner when scrore > 20
+- Game Logic Declares winner when scrore > 20. Hold your points to add them to your total score before your roll a 1 or you lose your points.
 - The app uses CSS styling.
 - The JavaScript code is formatted according to ESLint rules.
   1. The JavaScript code is formatted via Prettier.
